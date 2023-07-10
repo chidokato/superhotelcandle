@@ -1,0 +1,56 @@
+<?php 
+	return [
+		'home' => 'Home',
+		'product' => 'Product',
+		'news' => 'News',
+
+		'languge' => 'Languge',
+		'vietnamese' => 'Vietnamese',
+		'english' => 'English',
+		'japanese' => 'Japanese',
+
+		'home' => 'Home',
+		'category' => 'Category',
+		'post' => 'News',
+		'all' => 'All',
+		'Language' => 'Language',
+		'English' => 'English',
+		'Vietnamese' => 'Vietnamese',
+		'Chinese' => 'Chinese',
+		'add' => 'add',
+		'en' => 'Tiếng anh',
+		'Price' => 'Price',
+		'Contact' => 'Contact',
+		'About' => 'About',
+		'SIGN_UP' => 'SIGN UP FOR INFORMATION',
+		'Email' => 'Email',
+		'Register_now' => 'Register now',
+		'link' => 'Link',
+		'Utilities' => 'Utilities',
+		'Room_details' => 'Room details',
+		'Book_now' => 'Book now',
+		'Adult' => 'Adult',
+		'Children' => 'Children',
+		
+		'Restaurant' => 'Restaurant',
+		'Room_service' => 'Room service',
+		'Laundry' => 'Laundry',
+		'Wifi' => 'Wifi',
+		'Parking_area' => 'Parking area',
+		'Breakfast' => 'Breakfast',
+		'Gym' => 'Gym',
+		'Spa' => 'Spa',
+		'Safe' => 'Safe',
+		'Television' => 'Television',
+		'Bathtub' => 'Bathtub',
+		'Pool' => 'Pool',
+
+		'heading1' => 'Welcome to SUPER HOTEL Candle',
+		'text1' => 'The space has been designed in the style of Japanese architecture, with a delicacy and closeness to the nature. The walls and floor are made mainly from the natural stone, creating warmth during the cold winter months and a cooler feeling in the summer',
+		'text2' => 'Unusually, many of the apartment rooms are equipped with the kitchens for the convenience of guests who may wish to prepare food in the comfort of their own room. Staying at Super Hotel Candle, guest can enjoy a sport of luxury in a homely...',
+		'hotel' => 'Hotel',
+		'RoomClasses' => 'Room Classes',
+
+		'text3' => 'Why choose SUPER HOTEL Candle'
+	];
+?>
