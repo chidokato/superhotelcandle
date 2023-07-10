@@ -355,10 +355,6 @@ img {
     }
     
     .container_check form div {
-        background-color: #ffffff;
-        border-right: 1px solid rgba(172, 169, 169, 0.938);
-        width: 20%;
-        height: 45px;
         display: flex;
         align-items: center;
         font-size: 15px;

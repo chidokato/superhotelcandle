@@ -6,7 +6,7 @@
 @section('url'){{asset('')}}@endsection
 
 @section('css')
-
+<link type="text/css" rel="stylesheet" href="//book.securebookings.net/css/search-wdg.css" />
 @endsection
 
 @section('content')
@@ -266,5 +266,7 @@
 
 @section('js')
 
-
+<script type="text/javascript" src="//book.securebookings.net/js/widget.search.js"></script>
+<script type="text/javascript" src="//book.securebookings.net/searchWidgetCustomize?lang=en&id=38592407-e2c4-1665972018-420a-8b88-fc80f652543a&ajax=true"></script>
+    
 @endsection

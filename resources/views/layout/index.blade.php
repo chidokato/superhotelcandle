@@ -52,6 +52,9 @@
     <link rel="stylesheet" href="{{asset('')}}frontend/files/plugins/slick/slick-theme.css">
     <link rel="stylesheet" href="{{asset('')}}frontend/files/plugins/daterangepicker/daterangepicker.css">
     <link rel="stylesheet" href="{{asset('')}}frontend/files/plugins/menu.css">
+
+    
+
     @yield('css')
 
 </head>
@@ -77,6 +80,8 @@
     <script src="frontend/content/Js/main.js"></script>
 
     <script src="frontend/content/Js/menu.js"></script>
+
+    
     
 @yield('js')
     
