@@ -38,8 +38,8 @@
 
 <section class="banner">
     <div class="check_date">
-        <div class="container container_check">
-            <form action="https://luxehotel.webhotel.vn/phong-nghi" method="get">
+        <div class="container container_check" id="hbe-bws-wrapper-widget-code">
+            <form action="" method="get">
                 <div class="check_in">
                     <input type="text" id="check_in" name="CheckIn" placeholder="Arrival Date">
                     <i class="fas fa-calendar-week"></i>
@@ -77,3 +77,37 @@
         </div>
     </div>
 </section>
+
+
+1. Engver:
+
+Embedded Code:
+
+ <div class="hbe-bws"> <section id="hbe-bws-page"><div id="hbe-bws-wrapper">  </div></section></div>
+ <link type="text/css" rel="stylesheet" href="//book.securebookings.net/css/app.css" />
+ <script type="text/javascript" src="//book.securebookings.net/js/widget.all.js"></script>
+ <script type="text/javascript" src="//book.securebookings.net/widgetCustomize?lang=en&widgetType=Widget&id=38592407-e2c4-1665972018-420a-8b88-fc80f652543a&ajax=true"></script>
+
+Search Widget Code:
+
+ <section id=""></section>
+
+ <link type="text/css" rel="stylesheet" href="//book.securebookings.net/css/search-wdg.css" />
+ <script type="text/javascript" src="//book.securebookings.net/js/widget.search.js"></script>
+ <script type="text/javascript" src="//book.securebookings.net/searchWidgetCustomize?lang=en&id=38592407-e2c4-1665972018-420a-8b88-fc80f652543a&ajax=true"></script>
+
+2. Vietver:
+
+Embedded Code:
+
+ <div class="hbe-bws"> <section id="hbe-bws-page"><div id="hbe-bws-wrapper">  </div></section></div>
+ <link type="text/css" rel="stylesheet" href="//book.securebookings.net/css/app.css" />
+ <script type="text/javascript" src="//book.securebookings.net/js/widget.all.js"></script>
+ <script type="text/javascript" src="//book.securebookings.net/widgetCustomize?lang=vi&widgetType=Widget&id=38592407-e2c4-1665972018-420a-8b88-fc80f652543a&ajax=true"></script>
+
+Search Widget Code:
+
+ <section id="hbe-bws-wrapper-widget-code"></section>
+ <link type="text/css" rel="stylesheet" href="//book.securebookings.net/css/search-wdg.css" />
+ <script type="text/javascript" src="//book.securebookings.net/js/widget.search.js"></script>
+ <script type="text/javascript" src="//book.securebookings.net/searchWidgetCustomize?lang=vi&id=38592407-e2c4-1665972018-420a-8b88-fc80f652543a&ajax=true"></script>

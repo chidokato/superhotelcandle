@@ -1,7 +1,7 @@
 @extends('layout.index')
 
-@section('title') Công Ty Cổ Phần Bất Động Sản Indochine @endsection
-@section('description') Công Ty Cổ Phần Bất Động Sản Indochine là công ty thành viên của Đất Xanh Miền Bắc - UY TÍN số 1 thị trường BĐS Việt Nam @endsection
+@section('title')  @endsection
+@section('description')  @endsection
 @section('robots') index, follow @endsection
 @section('url'){{asset('')}}@endsection
 
