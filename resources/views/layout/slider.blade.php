@@ -38,7 +38,7 @@
 
 <section class="banner">
     <div class="check_date">
-        <div class="container container_check" id="hbe-bws-wrapper-widget-code">
+        <div class="container container_check" id="">
             <form action="" method="get">
                 <div class="check_in">
                     <input type="text" id="check_in" name="CheckIn" placeholder="Arrival Date">

@@ -156,7 +156,7 @@
     </div>
     <div class="main_space"></div>
     <!--End team orther-->
-    <div class="main_offer" style="background-image: url(frontend/files/images/hotel/5f8b5279e24f16114f5e.jpg);background-repeat: no-repeat;background-size: cover;height: 600px;">
+    <!-- <div class="main_offer" style="background-image: url(frontend/files/images/hotel/5f8b5279e24f16114f5e.jpg);background-repeat: no-repeat;background-size: cover;height: 600px;">
         <div class="youtube_overlay">
             <div class="youtube_text">
                 <form action="https://luxehotel.webhotel.vn/lien-he" method="get">
@@ -172,7 +172,7 @@
             </div>
         </div>
     </div>
-    <div class="main_space"></div>
+    <div class="main_space"></div> -->
     <!--End offer-->
     <div class="main_news">
         <div class="container news_container">
