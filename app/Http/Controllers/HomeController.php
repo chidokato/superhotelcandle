@@ -13,6 +13,7 @@ use App\Models\PostTranslation;
 use App\Models\Images;
 use App\Models\SectionTranslation;
 use App\Models\SettingTranslation;
+use App\Models\SliderTranslation;
 
 // $locale = App::currentLocale();
 
@@ -30,6 +31,7 @@ class HomeController extends Controller
     {
         $locale = App::currentLocale();
         $setting = SettingTranslation::where('locale', $locale)->first();
+        $slider = SliderTranslation::where('locale', $locale)->get();
         $category = CategoryTranslation::join('categories', 'categories.id', '=', 'category_translations.category_id')
             ->where('locale', $locale)
             ->select('category_translations.*')->orderBy('categories.view', 'asc')->get();
@@ -54,6 +56,7 @@ class HomeController extends Controller
             ->get();
         return view('pages.home', compact(
             'category',
+            'slider',
             'setting',
             'home_cats',
             'posts',

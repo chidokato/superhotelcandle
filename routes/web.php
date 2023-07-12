@@ -11,6 +11,7 @@ use App\Http\Controllers\Admin\PostController;
 use App\Http\Controllers\Admin\ProductController;
 use App\Http\Controllers\Admin\SectionController;
 use App\Http\Controllers\Admin\SettingController;
+use App\Http\Controllers\Admin\SliderController;
 
 use App\Http\Controllers\Admin\ProvinceController;
 use App\Http\Controllers\Admin\DistrictController;
@@ -68,6 +69,8 @@ Route::middleware(['auth'])->group(function () {
         Route::resource('post',PostController::class);
 
         Route::resource('product',ProductController::class);
+
+        Route::resource('slider',SliderController::class);
         Route::resource('setting',SettingController::class);
 
         Route::resource('users',UserController::class);

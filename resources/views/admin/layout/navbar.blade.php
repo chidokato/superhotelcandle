@@ -30,6 +30,9 @@
         <a class="nav-link" href="{{route('post.index')}}"><i class="fas fa-fw fa-chart-area"></i><span>Tiện ích/dịch vụ</span></a>
     </li>
     <li class="nav-item">
+        <a class="nav-link" href="{{route('slider.index')}}"><i class="fas fa-fw fa-chart-area"></i><span>Slider</span></a>
+    </li>
+    <li class="nav-item">
         <a class="nav-link" href="{{route('setting.index')}}"><i class="fas fa-fw fa-chart-area"></i><span>Cầu hình</span></a>
     </li>
     <!-- <li class="nav-item">
