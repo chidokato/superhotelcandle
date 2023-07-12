@@ -20,7 +20,7 @@
         </div>
 </div>
 <section class="header">
-    <div class="header_nav">
+    <div class="header_nav" style="background: url(frontend/img/bg.png);">
         <div class="nav_container">
             <header class="header" id="header">
                <section class="wrapper">

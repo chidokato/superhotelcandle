@@ -1,5 +1,5 @@
-<section class="footer">
-        <div class="main_footer">
+<section class="footer" style="background: url(frontend/img/bg.png);">
+        <div class="main_footer" style="background: url(frontend/img/bg.png);">
             <div class="container footer_container">
                 <div class="row footer_row">
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
