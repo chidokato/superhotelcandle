@@ -115,31 +115,31 @@
                           <div class="col-md-12">
                               <div class="form-group">
                                   <label>heading1</label>
-                                  <input name="heading1:cn" placeholder="..." type="text" class="form-control">
+                                  <input name="heading1:jp" placeholder="..." type="text" class="form-control">
                               </div>
                           </div>
                           <div class="col-md-12">
                               <div class="form-group">
                                   <label>heading2</label>
-                                  <input name="heading2:cn" placeholder="..." type="text" class="form-control">
+                                  <input name="heading2:jp" placeholder="..." type="text" class="form-control">
                               </div>
                           </div>
                           <div class="col-md-12">
                               <div class="form-group">
                                   <label>text1</label>
-                                  <input name="text1:cn" placeholder="..." type="text" class="form-control">
+                                  <input name="text1:jp" placeholder="..." type="text" class="form-control">
                               </div>
                           </div>
                           <div class="col-md-12">
                               <div class="form-group">
                                   <label>text2</label>
-                                  <input name="text2:cn" placeholder="..." type="text" class="form-control">
+                                  <input name="text2:jp" placeholder="..." type="text" class="form-control">
                               </div>
                           </div>
                           <div class="col-md-12">
                               <div class="form-group">
                                   <label>link</label>
-                                  <input name="link:cn" placeholder="..." type="text" class="form-control">
+                                  <input name="link:jp" placeholder="..." type="text" class="form-control">
                               </div>
                           </div>
                           

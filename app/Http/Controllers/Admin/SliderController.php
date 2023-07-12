@@ -76,12 +76,12 @@ class SliderController extends Controller
             'text2' => $data['text2:vi'],
             'link' => $data['link:vi'],   
           ],
-          'cn' => [
-            'heading1' => $data['heading1:cn'],
-            'heading2' => $data['heading2:cn'],
-            'text1' => $data['text1:cn'],
-            'text2' => $data['text2:cn'],
-            'link' => $data['link:cn'],   
+          'jp' => [
+            'heading1' => $data['heading1:jp'],
+            'heading2' => $data['heading2:jp'],
+            'text1' => $data['text1:jp'],
+            'text2' => $data['text2:jp'],
+            'link' => $data['link:jp'],   
           ]
         ]);
 
@@ -142,12 +142,12 @@ class SliderController extends Controller
             'text2' => $data['text2:vi'],
             'link' => $data['link:vi'],   
           ],
-          'cn' => [
-            'heading1' => $data['heading1:cn'],
-            'heading2' => $data['heading2:cn'],
-            'text1' => $data['text1:cn'],
-            'text2' => $data['text2:cn'],
-            'link' => $data['link:cn'],   
+          'jp' => [
+            'heading1' => $data['heading1:jp'],
+            'heading2' => $data['heading2:jp'],
+            'text1' => $data['text1:jp'],
+            'text2' => $data['text2:jp'],
+            'link' => $data['link:jp'],   
           ]
         ]);
         // thêm ảnh

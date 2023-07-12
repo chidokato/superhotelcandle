@@ -34,7 +34,7 @@
                     <li><a data-toggle="tab" class="nav-link <?php if($key==0){echo 'active';} ?>" href="#{{$val->locale}}">
                       @if($val->locale == 'vi') Tiếng Việt @endif
                       @if($val->locale == 'en') Tiếng Anh @endif
-                      @if($val->locale == 'cn') Tiếng Trung @endif
+                      @if($val->locale == 'jp') Tiếng Nhật @endif
                     </a></li>
                     @endforeach
                 </ul>
