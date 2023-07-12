@@ -20,7 +20,7 @@
             <div class="row hotel_row">
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 hotel_col">
                     <div class="hotel_img">
-                        <img src="data/home/slider2.jpg" alt="No picture">
+                        <img src="frontend/img/home1.jpg" alt="No picture">
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 hotel_col">
