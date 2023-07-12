@@ -174,7 +174,7 @@
     </div>
     <div class="main_space"></div> -->
     <!--End offer-->
-    <div class="main_news">
+    <!-- <div class="main_news">
         <div class="container news_container">
             <div class="news_text">
                 <span class="subtitle">Bài viết</span>
@@ -256,7 +256,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!--End main_news-->
     
 </section>
