@@ -31,7 +31,7 @@
                 <ul class="nav nav-pills">
                     <li><a data-toggle="tab" class="nav-link active" href="#vi">Tiếng Việt</a></li>
                     <li><a data-toggle="tab" class="nav-link" href="#en">Tiếng Anh</a></li>
-                    <li><a data-toggle="tab" class="nav-link" href="#cn">Tiếng Trung</a></li>
+                    <li><a data-toggle="tab" class="nav-link" href="#jp">Tiếng Nhật</a></li>
                 </ul>
             </div>
             <div class="tab-content overflow">
@@ -109,7 +109,7 @@
                       </div>
                   </div>
                 </div>
-                <div class="tab-pane" id="cn">
+                <div class="tab-pane" id="jp">
                   <div class="card-body">
                       <div class="row">
                           <div class="col-md-12">
