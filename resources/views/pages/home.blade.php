@@ -91,7 +91,7 @@
     <div class="carousel_two">
         <div class="carousel_two-n owl-carousel owl-theme">
             @foreach($fitness as $val)
-            <div class="item" style="background-image: url(data/news/{{$val->Post->img}});height: 600px;background-repeat: no-repeat;background-size: cover;">
+            <div class="item" style="background-image: url(data/news/{{$val->Post->img}});height: 550px;background-repeat: no-repeat;background-size: cover; background-position: center;">
                 <div class="col-lg-6 col-md-6 car-t-overlay"></div>
                 <div class="item_context">
                     <div class="container car-t-container">
