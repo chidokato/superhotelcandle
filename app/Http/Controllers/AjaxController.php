@@ -69,7 +69,7 @@ class AjaxController extends Controller
     {
         echo '<input type="hidden" value="0" name="category:en">
             <input type="hidden" value="0" name="category:vi">
-            <input type="hidden" value="0" name="category:cn">';
+            <input type="hidden" value="0" name="category:jp">';
     }
 
     public function change_parent($id)
