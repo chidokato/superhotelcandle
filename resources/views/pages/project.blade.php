@@ -99,7 +99,10 @@
             </div>
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                 <div class="reservation">
+                  <a target="_blank" href="https://book.securebookings.net/roomrate?id=38592407-e2c4-1665972018-420a-8b88-fc80f652543a">
                     <button class="button_sb">{{__('lang.Book_now')}}</button>
+                  </a>
+                    
 
                     <div class="reservation_hotel">
                         <div class="reservation_title">

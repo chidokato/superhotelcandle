@@ -50,7 +50,8 @@ class HomeController extends Controller
             ->where('category_translations.category_id', 50)
             ->get();
         $restaurant = PostTranslation::join('category_translations', 'category_translations.id', '=', 'post_translations.category_tras_id')
-            ->select('post_translations.*')
+            ->join('categories', 'category_translations.category_id', '=', 'categories.id')
+            ->select('post_translations.*', 'categories.slug AS catslug')
             ->where('category_translations.locale', $locale)
             ->where('category_translations.category_id', 49)
             ->get();

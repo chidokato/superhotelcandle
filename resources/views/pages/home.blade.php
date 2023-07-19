@@ -132,9 +132,9 @@
                 <h2 class="title" style="color:#111111;margin:0 0 30px 0">Restaurant & Bar</h2>
             </div>
             <div class="row vacation_row">
-@foreach($restaurant as $val)
+                @foreach($restaurant as $val)
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-                        <a href="{{$post->post->slug}}">
+                        <a href="{{$val->catslug}}/{{$val->Post->slug}}">
                             <div class="vacation_content">
                                 <div class="vacation_img">
                                     <img src="data/news/{{$val->Post->img}}" alt="No picture">
