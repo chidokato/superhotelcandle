@@ -1489,7 +1489,7 @@ a:hover {
 .lang .sub_menu{ padding: 0; z-index: 999; }
 .sub_menu-item{ padding: 0 }
 .sub_menu-item a{ padding: 7px 10px !important }
-.detail-blog img{ width: 100% !important; height: auto !important; }
+.detail-blog img{ max-width: 100% !important;max-height: auto !important; }
 .header_logo .logo{
     padding: 20px 0px;
 }
