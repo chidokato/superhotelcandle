@@ -38,7 +38,7 @@
                                         <a href="contact">{{__('lang.Contact')}}</a>
                                     </li>
                                     <li class="quick_list-item">
-                                        <a href="about">{{__('lang.about')}}</a>
+                                        <a href="about">{{__('lang.About')}}</a>
                                     </li>
                             </ul>
                         </div>
