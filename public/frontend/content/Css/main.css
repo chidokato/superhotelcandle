@@ -70,7 +70,7 @@ img {
         height: 100%;
         top: 0;
         position: absolute;
-        background-color: #1312125c;
+        /*background-color: #1312125c;*/
         z-index: 1;
     }
     

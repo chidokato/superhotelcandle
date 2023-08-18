@@ -12,10 +12,9 @@
 
 <section class="banner">
     <div class="header_banner">
-        <img src="frontend/files/images/bn/slide-01.jpg" alt="No picture">
+        <img src="frontend/files/images/bn/DSC01568.jpg" alt="No picture">
         <div class="header_bgr"></div>
     </div>
-    
 </section>
 
 
@@ -24,31 +23,21 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-12 xol-xs-12">
-                <div class="page_subtitle">CHÚNG TÔI CHĂM SÓC MỌI NGƯỜI</div>
                 <div class="page_title">
                     <h2 class="page_title-name">
-                        Chào mừng đến với Luxe Hotel
+                        Chào mừng đến với SUPER HOTEL Candle
                     </h2>
                 </div>
                 <div class="page_text">
-                    <p>
-                        </p><div style="text-align: justify;">Luxe Hotel cung cấp đầy đủ những dịch vụ tiện ích, có thủ tục kiểm tra nhanh chóng, wi-fi công cộng miễn phí phủ sóng toàn bộ khách sạn… Điểm nổi bật của Luxe Hotel là nhà hàng cung cấp được cả ẩm thực phương Đông và phương Tây được xây dựng và phục vụ trên tầng cao nhất. Quý khách có thể vừa thưởng thức bữa tối ngon miệng vừa ngắm bầu trời đầy sao và thành phố khi về đêm. Ngoài ra, du khách có thể tận hưởng những dịch vụ khác như spa, phòng gym ngay trong khu vực khách sạn. Thật tuyệt vời khi mà, những thới quen rèn luyện sức khỏe, chăm sóc bản thân của bạn vẫn được duy trì đều đặn trong những kỳ nghỉ dài ngày.<br>
-<br>
-Luxe Hotel tự tin mang đến cho bạn sự thăng hoa về cảm xúc, những trải nghiệm tốt nhất, tuyệt vời nhất trong kỳ nghỉ dưỡng của bạn. Hãy đến với chúng tôi, chúng tôi đảm bảo rằng bạn sẽ không hối tiếc.</div>
-
-                    <p></p>
-                    <p>
-                        <b>
-                            <i></i>
-                        </b>
-                    </p>
+                    <p>Super Hotel Candle chào đón quý khách đến với không gian tinh tế và sang trọng, nơi mọi chi tiết đã được chỉnh chu, nơi mang đến những giá trị trải nghiệm tuyệt vời nhất cho kỳ nghỉ của bạn.</p>
+                    <p>Đội ngũ Lễ tân và Nhân viên của chúng tôi sẵn lòng phục vụ 24/7 để đáp ứng mọi yêu cầu của quý khách.</p>
+                    <p>Bữa tối lãng mạn, một chuyến city tour, một vòng trải nghiệm những nét văn hoá đặc trưng của phố cổ Hà Nội</p>
                 </div>
-               
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 xol-xs-12">
                 <div class="page_col-right">
                     <div class="page_col-right-img">
-                        <img src="frontend/files/images/ab.jpg" alt="No picture">
+                        <img src="frontend/files/images/bn/DSC01568.jpg" alt="No picture">
                     </div>
                 </div>
             </div>
@@ -58,28 +47,13 @@ Luxe Hotel tự tin mang đến cho bạn sự thăng hoa về cảm xúc, nhữ
     <div class="box-list">
 
             <div class="box-item">
-                <div class="box-img"><img alt="dua-don-san-bay" src="frontend/files/images/dv/Nhu-cau-su-dung-xe-don-nguoi-ra-san-bay-tang-cao.jpg"></div>
-                <div class="box-content">
-
-                    <h3 class="box-title">Đưa đón sân bay</h3>
-                    <div class="box-text"><span style="color:rgb(32, 33, 36)">Chúng tôi sẽ đón từ sân bay trong khi bạn thoải mái trên chuyến đi của mình.</span></div>
-                    <div class="hotel_infomation-button">
-                        <a href="/FormBook">
-                            <button>
-                                Đặt phòng ngay
-                            </button>
-                        </a>
-                        </div>
-                    </div>
-                </div>
-            <div class="box-item">
-                <div class="box-img"><img alt="bua-sang-mien-phi" src="frontend/files/images/dv/bua-sang-1.jpg"></div>
+                <div class="box-img"><img alt="dua-don-san-bay" src="frontend/files/images/bn/DSC02579.jpg"></div>
                 <div class="box-content">
 
                     <h3 class="box-title">Bữa sáng miễn phí</h3>
-                    <div class="box-text">Đừng tiêu một xu cho bữa sáng.&nbsp;<span style="color:rgb(32, 33, 36)">Đó hoàn toàn là do chúng tôi.</span></div>
+                    <div class="box-text"><span style="color:rgb(32, 33, 36)">Tận hưởng bữa sáng truyền thống mang đậm hương vị Việt tại nhà hàng</span></div>
                     <div class="hotel_infomation-button">
-                        <a href="/FormBook">
+                        <a href="https://book.securebookings.net/roomrate?id=38592407-e2c4-1665972018-420a-8b88-fc80f652543a">
                             <button>
                                 Đặt phòng ngay
                             </button>
@@ -88,13 +62,13 @@ Luxe Hotel tự tin mang đến cho bạn sự thăng hoa về cảm xúc, nhữ
                     </div>
                 </div>
             <div class="box-item">
-                <div class="box-img"><img alt="huong-dan-vien-du-lich-thanh-pho" src="frontend/files/images/dv/tim-hieu-thu-nhap-cua-huong-dan-vien-du-lich-quoc-te-03.jpg"></div>
+                <div class="box-img"><img alt="bua-sang-mien-phi" src="frontend/files/images/bn/duadonsanbay.jpg"></div>
                 <div class="box-content">
 
-                    <h3 class="box-title">Hướng dẫn viên du lịch thành phố</h3>
-                    <div class="box-text"><span style="color:rgb(32, 33, 36)">Khám phá thành phố với hướng dẫn viên du lịch trong nhà của chúng tôi. </span><span style="color:rgb(32, 33, 36)">Chúng tôi đã trở lại của bạn.</span></div>
+                    <h3 class="box-title">Đưa đón sân bay</h3>
+                    <div class="box-text">Super Hotel Candle cung cấp dịch vụ đưa đón sân bay tại khách sạn theo yêu cầu</span></div>
                     <div class="hotel_infomation-button">
-                        <a href="/FormBook">
+                        <a href="https://book.securebookings.net/roomrate?id=38592407-e2c4-1665972018-420a-8b88-fc80f652543a">
                             <button>
                                 Đặt phòng ngay
                             </button>
@@ -103,13 +77,13 @@ Luxe Hotel tự tin mang đến cho bạn sự thăng hoa về cảm xúc, nhữ
                     </div>
                 </div>
             <div class="box-item">
-                <div class="box-img"><img alt="tiec-bbq-bai-bien" src="frontend/files/images/dv/Corallo-FIRE-set-up-e1554377061139.jpg"></div>
+                <div class="box-img"><img alt="huong-dan-vien-du-lich-thanh-pho" src="frontend/files/images/bn/DSC02282.jpg"></div>
                 <div class="box-content">
 
-                    <h3 class="box-title">Tiệc BBQ bãi biển</h3>
-                    <div class="box-text"><span style="color:rgb(32, 33, 36)">Trở lại bãi biển và nấu các công thức nấu ăn từ masterchef của chúng tôi.</span></div>
+                    <h3 class="box-title">Các dịch vụ khác</h3>
+                    <div class="box-text"><span style="color:rgb(32, 33, 36)">Khách sạn các dịch vụ, tiện ích khác: Phòng tập thể hình, Shop, Mini Mart, Concierge, Thu đổi ngoại tệ, </span></div>
                     <div class="hotel_infomation-button">
-                        <a href="/FormBook">
+                        <a href="https://book.securebookings.net/roomrate?id=38592407-e2c4-1665972018-420a-8b88-fc80f652543a">
                             <button>
                                 Đặt phòng ngay
                             </button>
@@ -117,10 +91,11 @@ Luxe Hotel tự tin mang đến cho bạn sự thăng hoa về cảm xúc, nhữ
                         </div>
                     </div>
                 </div>
+           
     </div>
 
-    <div class="main_space"></div>
-    <div class="container">
+    <!-- <div class="main_space"></div> -->
+    <!-- <div class="container">
         <div class="hotel_icon">
             <div class="row">
                 <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
@@ -177,10 +152,10 @@ Luxe Hotel tự tin mang đến cho bạn sự thăng hoa về cảm xúc, nhữ
                 </div>
             </div>
         </div>
-    </div>
-    <div class="main_space border-bottom"></div>
-    <div class="main_space"></div>
-    <div class="book-room-text">
+    </div> -->
+    <!-- <div class="main_space border-bottom"></div> -->
+    <!-- <div class="main_space"></div> -->
+   <!--  <div class="book-room-text">
         <div class="container">
             <p style="width: 70%;text-align: center;margin: 0 auto;">Những kỷ niệm có nghĩa là để được xem lại. Chúng tôi mời bạn trải nghiệm The Ritz-Carlton, Đảo Amelia qua con mắt của những người bạn đồng hành và chia sẻ những khoảnh khắc khó quên trong kỳ nghỉ của chính bạn.</p>
             <div class="button_book-room">
@@ -189,7 +164,7 @@ Luxe Hotel tự tin mang đến cho bạn sự thăng hoa về cảm xúc, nhữ
                 </a>
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="main_space"></div>
     <div class="map">
         {!!$setting->maps!!}
