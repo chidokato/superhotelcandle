@@ -37,7 +37,7 @@
             <div class="col-lg-6 col-md-6 col-sm-12 xol-xs-12">
                 <div class="page_col-right">
                     <div class="page_col-right-img">
-                        <img src="frontend/files/images/bn/DSC01568.jpg" alt="No picture">
+                        <img src="frontend/img/home1.jpg" alt="No picture">
                     </div>
                 </div>
             </div>
