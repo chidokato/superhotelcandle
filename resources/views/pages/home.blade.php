@@ -43,14 +43,14 @@
             </div>
         </div>
     </div>
-    @foreach($home_cats as $home_cat)
+    @foreach($home_cats as $key => $home_cat)
     <div class="main_space-end"></div>
     <div class="main_space"></div>
     <div class="main_lodging">
         <div class="container lodging_container">
             <div class="lodging_title">
-                <span>{{__('lang.RoomClasses')}}</span>
                 <h2 class="title" style="color:#111111;">{{$home_cat->name}}</h2>
+                <span style="text-transform: inherit;">@if($key==0) {{__('lang.RoomClasses')}} @elseif($key==1) {{__('lang.RoomClasses1')}} @endif</span>
             </div>
         </div>
         <div class="main_space-mg30"></div>
