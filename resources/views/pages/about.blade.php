@@ -61,7 +61,15 @@
                         </div>
                     </div>
                 </div>
-            
+            <div class="box-item">
+                <div class="box-img"><img alt="bua-sang-mien-phi" src="frontend/files/images/bn/duadonsanbay.jpg"></div>
+                <div class="box-content">
+
+                    <h3 class="box-title">Đưa đón sân bay</h3>
+                    <div class="box-text">Super Hotel Candle cung cấp dịch vụ đưa đón sân bay tại khách sạn theo yêu cầu</span></div>
+                    
+                    </div>
+                </div>
             <div class="box-item">
                 <div class="box-img"><img alt="huong-dan-vien-du-lich-thanh-pho" src="frontend/files/images/bn/DSC02282.jpg"></div>
                 <div class="box-content">
