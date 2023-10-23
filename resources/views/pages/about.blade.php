@@ -1,7 +1,7 @@
 @extends('layout.index')
 
-@section('title') Công Ty Cổ Phần Bất Động Sản Indochine @endsection
-@section('description') Công Ty Cổ Phần Bất Động Sản Indochine là công ty thành viên của Đất Xanh Miền Bắc – đơn vị trực thuộc Tập Đoàn Đất Xanh @endsection
+@section('title') SUPER HOTEL Candle là một dự án tiêu biểu của Tập đoàn Nhân Nghĩa @endsection
+@section('description') SUPER HOTEL Candle là một dự án tiêu biểu của Tập đoàn Nhân Nghĩa, được khởi công xây dựng năm 2007, hoạt động từ năm 2013 @endsection
 @section('robots') index, follow @endsection
 @section('url'){{asset('')}}@endsection
 
