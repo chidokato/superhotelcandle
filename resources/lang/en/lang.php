@@ -63,5 +63,16 @@
 		'chitu' => 'just words',
 		'xem' => 'See details',
 
+		'text51' => 'Super Hotel Candle welcomes you to a sophisticated and luxurious space, where every detail has been carefully crafted, bringing the most wonderful experience values for your vacation.',
+		'text52' => 'Our Reception and Staff team are available 24/7 to meet all your requests.',
+		'text53' => "Romantic dinner, a city tour, a round of experiencing the typical cultural features of Hanoi's old town",
+		'text54' => 'Enjoy a traditional Vietnamese breakfast at the restaurant',
+		'text55' => 'SUPER HOTEL Candle supports car booking for guests upon request',
+		'text56' => 'Hotel other services and amenities: Gym, Shop, Mini Mart, Concierge, Currency exchange...',
+		'text561' => 'Free breakfast',
+		'text562' => 'Airport pick up',
+		'text563' => 'Other services',
+		'text564' => 'Book now',
+
 	];
 ?>

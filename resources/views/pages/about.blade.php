@@ -25,13 +25,13 @@
             <div class="col-lg-6 col-md-6 col-sm-12 xol-xs-12">
                 <div class="page_title">
                     <h2 class="page_title-name">
-                        Chào mừng đến với SUPER HOTEL Candle
+                        {{__('lang.heading1')}}
                     </h2>
                 </div>
                 <div class="page_text">
-                    <p>{{__('lang.text1')}}</p>
-                    <p>{{__('lang.text2')}}</p>
-                    <p>{{__('lang.text21')}}</p>
+                    <p>{{__('lang.text51')}}</p>
+                    <p>{{__('lang.text52')}}</p>
+                    <p>{{__('lang.text53')}}</p>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 xol-xs-12">
@@ -50,36 +50,42 @@
                 <div class="box-img"><img alt="dua-don-san-bay" src="frontend/files/images/bn/DSC02579.jpg"></div>
                 <div class="box-content">
 
-                    <h3 class="box-title">Bữa sáng miễn phí</h3>
-                    <div class="box-text"><span style="color:rgb(32, 33, 36)">Tận hưởng bữa sáng truyền thống mang đậm hương vị Việt tại nhà hàng</span></div>
+                    <h3 class="box-title">{{__('lang.text561')}}</h3>
+                    <div class="box-text"><span style="color:rgb(32, 33, 36)">{{__('lang.text54')}}</span></div>
                     <div class="hotel_infomation-button">
                         <a href="https://book.securebookings.net/roomrate?id=38592407-e2c4-1665972018-420a-8b88-fc80f652543a">
                             <button>
-                                Đặt phòng ngay
+                                {{__('lang.text564')}}
                             </button>
                         </a>
-                        </div>
+                    </div>
                     </div>
                 </div>
             <div class="box-item">
                 <div class="box-img"><img alt="bua-sang-mien-phi" src="frontend/files/images/bn/duadonsanbay.jpg"></div>
                 <div class="box-content">
 
-                    <h3 class="box-title">Đưa đón sân bay</h3>
-                    <div class="box-text">Super Hotel Candle cung cấp dịch vụ đưa đón sân bay tại khách sạn theo yêu cầu</span></div>
-                    
+                    <h3 class="box-title">{{__('lang.text562')}}</h3>
+                    <div class="box-text">{{__('lang.text55')}}</span></div>
+                    <div class="hotel_infomation-button">
+                        <a href="https://book.securebookings.net/roomrate?id=38592407-e2c4-1665972018-420a-8b88-fc80f652543a">
+                            <button>
+                                {{__('lang.text564')}}
+                            </button>
+                        </a>
+                    </div>
                     </div>
                 </div>
             <div class="box-item">
                 <div class="box-img"><img alt="huong-dan-vien-du-lich-thanh-pho" src="frontend/files/images/bn/DSC02282.jpg"></div>
                 <div class="box-content">
 
-                    <h3 class="box-title">Các dịch vụ khác</h3>
-                    <div class="box-text"><span style="color:rgb(32, 33, 36)">Khách sạn các dịch vụ, tiện ích khác: Phòng tập thể hình, Shop, Mini Mart, Concierge, Thu đổi ngoại tệ, </span></div>
+                    <h3 class="box-title">{{__('lang.text563')}}</h3>
+                    <div class="box-text"><span style="color:rgb(32, 33, 36)">{{__('lang.text56')}}</span></div>
                     <div class="hotel_infomation-button">
                         <a href="https://book.securebookings.net/roomrate?id=38592407-e2c4-1665972018-420a-8b88-fc80f652543a">
                             <button>
-                                Đặt phòng ngay
+                                {{__('lang.text564')}}
                             </button>
                         </a>
                         </div>

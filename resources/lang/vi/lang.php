@@ -63,6 +63,17 @@
 		'chitu' => 'Chỉ từ',
 		'xem' => 'Xem chi tiết',
 
+		'text51' => 'Super Hotel Candle chào đón quý khách đến với không gian tinh tế và sang trọng, nơi mọi chi tiết đã được chỉnh chu, nơi mang đến những giá trị trải nghiệm tuyệt vời nhất cho kỳ nghỉ của bạn.',
+		'text52' => 'Đội ngũ Lễ tân và Nhân viên của chúng tôi sẵn lòng phục vụ 24/7 để đáp ứng mọi yêu cầu của quý khách.',
+		'text53' => 'Bữa tối lãng mạn, một chuyến city tour, một vòng trải nghiệm những nét văn hoá đặc trưng của phố cổ Hà Nội',
+		'text54' => 'Tận hưởng bữa sáng truyền thống mang đậm hương vị Việt tại nhà hàng',
+		'text55' => 'SUPER HOTEL Candle hỗ trợ đặt xe giúp quý khách theo yêu cầu',
+		'text56' => 'Khách sạn các dịch vụ, tiện ích khác: Phòng tập thể hình, Shop, Mini Mart, Concierge, Thu đổi ngoại tệ...',
+		'text561' => 'Bữa sáng miễn phí',
+		'text562' => 'Đưa đón sân bay',
+		'text563' => 'Các dịch vụ khác',
+		'text564' => 'Đặt phòng ngay',
+
 
 
 	];
