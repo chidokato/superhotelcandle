@@ -50,7 +50,8 @@
 		'text2' => 'Vẻ đẹp kiến trúc Châu  Âu tỏa sáng cùng văn hóa tinh thần Nhật Bản kiến tạo một công trình biểu tượng như SUPER HOTEL Candle, vừa mang đẳng cấp quốc tế vừa đậm đà bản sắc Á Đông.',
 		'text3' => 'Tọa lạc tại trung tâm chính trị - kinh tế - văn hóa của thủ đô Hà Nội, liền kề đại sứ quán các nước, SUPER HOTEL Candle chính là lựa chọn hàng đầu cho du khách, doanh nhân khi đến với thủ đô Hà Nội.',
 		'hotel' => 'Khách sạn',
-		'RoomClasses' => 'Các hạng phòng',
+		'RoomClasses' => 'Khoác lên mình phong cách Nhật Bản tinh tế, sang trọng. Tầm nhìn bao trọn Hồ Tây & Thành phố',
+		'RoomClasses1' => 'Được trang bị đầy đủ công năng, hiện đại. Đem lại cảm giác thoải mái, ấm cúng như chính căn nhà của bạn',
 
 		'text3' => 'Tại sao chọn SUPER HOTEL Candle'
 
