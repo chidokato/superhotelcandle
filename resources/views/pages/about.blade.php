@@ -29,9 +29,9 @@
                     </h2>
                 </div>
                 <div class="page_text">
-                    <p>Super Hotel Candle chào đón quý khách đến với không gian tinh tế và sang trọng, nơi mọi chi tiết đã được chỉnh chu, nơi mang đến những giá trị trải nghiệm tuyệt vời nhất cho kỳ nghỉ của bạn.</p>
-                    <p>Đội ngũ Lễ tân và Nhân viên của chúng tôi sẵn lòng phục vụ 24/7 để đáp ứng mọi yêu cầu của quý khách.</p>
-                    <p>Bữa tối lãng mạn, một chuyến city tour, một vòng trải nghiệm những nét văn hoá đặc trưng của phố cổ Hà Nội</p>
+                    <p>{{__('lang.text1')}}</p>
+                    <p>{{__('lang.text2')}}</p>
+                    <p>{{__('lang.text21')}}</p>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 xol-xs-12">
@@ -61,21 +61,7 @@
                         </div>
                     </div>
                 </div>
-            <div class="box-item">
-                <div class="box-img"><img alt="bua-sang-mien-phi" src="frontend/files/images/bn/duadonsanbay.jpg"></div>
-                <div class="box-content">
-
-                    <h3 class="box-title">Đưa đón sân bay</h3>
-                    <div class="box-text">Super Hotel Candle cung cấp dịch vụ đưa đón sân bay tại khách sạn theo yêu cầu</span></div>
-                    <div class="hotel_infomation-button">
-                        <a href="https://book.securebookings.net/roomrate?id=38592407-e2c4-1665972018-420a-8b88-fc80f652543a">
-                            <button>
-                                Đặt phòng ngay
-                            </button>
-                        </a>
-                        </div>
-                    </div>
-                </div>
+            
             <div class="box-item">
                 <div class="box-img"><img alt="huong-dan-vien-du-lich-thanh-pho" src="frontend/files/images/bn/DSC02282.jpg"></div>
                 <div class="box-content">
