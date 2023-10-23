@@ -46,8 +46,9 @@
 		'Pool' => 'Bể Bơi',
 
 		'heading1' => 'Chào mừng đến với SUPER HOTEL Candle',
-		'text1' => 'Không gian được thiết kế theo phong cách kiến trúc Nhật Bản, tinh tế và gần gũi với thiên nhiên. Các bức tường và sàn nhà được làm chủ yếu từ đá tự nhiên, tạo sự ấm áp trong những tháng mùa đông lạnh giá và cảm giác mát mẻ hơn vào mùa hè',
-		'text2' => 'Điều bất thường là nhiều phòng căn hộ được trang bị nhà bếp để thuận tiện cho những khách muốn chuẩn bị đồ ăn trong sự thoải mái ngay tại phòng riêng của mình. Lưu trú tại Super Hotel Candle, du khách có thể tận hưởng một môn thể thao sang trọng trong một...',
+		'text1' => 'SUPER HOTEL Candle là một dự án tiêu biểu của Tập đoàn Nhân Nghĩa, được khởi công xây dựng năm 2007, hoạt động từ năm 2013.',
+		'text2' => 'Vẻ đẹp kiến trúc Châu  Âu tỏa sáng cùng văn hóa tinh thần Nhật Bản kiến tạo một công trình biểu tượng như SUPER HOTEL Candle, vừa mang đẳng cấp quốc tế vừa đậm đà bản sắc Á Đông.',
+		'text3' => 'Tọa lạc tại trung tâm chính trị - kinh tế - văn hóa của thủ đô Hà Nội, liền kề đại sứ quán các nước, SUPER HOTEL Candle chính là lựa chọn hàng đầu cho du khách, doanh nhân khi đến với thủ đô Hà Nội.',
 		'hotel' => 'Khách sạn',
 		'RoomClasses' => 'Các hạng phòng',
 

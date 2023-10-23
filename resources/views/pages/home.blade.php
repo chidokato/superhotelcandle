@@ -1,7 +1,7 @@
 @extends('layout.index')
 
-@section('title')  @endsection
-@section('description')  @endsection
+@section('title') {{$setting->title}} @endsection
+@section('description') {{$setting->description}} @endsection
 @section('robots') index, follow @endsection
 @section('url'){{asset('')}}@endsection
 
@@ -33,6 +33,7 @@
                                 <div style="text-align:justify">
                                     <p>{{__('lang.text1')}}</p>
                                     <p>{{__('lang.text2')}}</p>
+                                    <p>{{__('lang.text3')}}</p>
                                 </div>
                             </div>
                         </div>
