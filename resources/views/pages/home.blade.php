@@ -33,7 +33,7 @@
                                 <div style="text-align:justify">
                                     <p>{{__('lang.text1')}}</p>
                                     <p>{{__('lang.text2')}}</p>
-                                    <p>{{__('lang.text3')}}</p>
+                                    <p>{{__('lang.text21')}}</p>
                                 </div>
                             </div>
                         </div>
