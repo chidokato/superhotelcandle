@@ -60,6 +60,8 @@
 		'text43' => 'Phòng sang trọng cho bạn thoải mái',
 		'text44' => 'Hoàn tiền dễ dàng khi đặt phòng trực tuyến',
 		'text45' => 'Khách sạn từng đoạt giải thưởng trên TripAdviosr',
+		'chitu' => 'Chỉ từ',
+		'xem' => 'Xem chi tiết',
 
 
 

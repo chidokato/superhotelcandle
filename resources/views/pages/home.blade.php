@@ -70,9 +70,9 @@
                                         <h3>{{$post->name}}</h3>
                                         <div class="item_text-price">
                                             @if($post->price)
-                                            Giá: chỉ từ {{$post->price}} {{$post->unit}}
+                                            {{__('lang.Price')}}: {{__('lang.chitu')}} {{$post->price}} {{$post->unit}}
                                             @else
-                                            Giá: liên hệ
+                                            {{__('lang.Price')}}: {{__('lang.Contact')}}
                                             @endif
                                         </div>
                                     </div>
@@ -105,7 +105,7 @@
                             </div>
                             <div class="button_booknow">
                                 <a href="{{$post->post->slug}}">
-                                    <button>Xem chi tiết</button>
+                                    <button>{{__('lang.xem')}}</button>
                                 </a>
                             </div>
                             <div class="nav-slide">

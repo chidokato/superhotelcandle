@@ -60,5 +60,8 @@
 		'text43' => 'Luxurious room for your comfort',
 		'text44' => 'Easy refunds when booking online',
 		'text45' => 'Award-winning hotel on TripAdvisor',
+		'chitu' => 'just words',
+		'xem' => 'See details',
+
 	];
 ?>
