@@ -25,7 +25,7 @@
 		'Laundry' => 'ランドリー ',
 		'Wifi' => 'ワイファイ',
 		'Parking_area' => '駐車場',
-		'Breakfast' => '朝食',
+		'Have_breakfast' => '朝食',
 		'Gym' => 'ジム',
 		'Spa' => 'スパ ',
 		'Safe' => '金庫',

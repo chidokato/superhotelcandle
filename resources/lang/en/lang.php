@@ -37,7 +37,7 @@
 		'Laundry' => 'Laundry',
 		'Wifi' => 'Wifi',
 		'Parking_area' => 'Parking area',
-		'Breakfast' => 'Breakfast',
+		'Have_breakfast' => 'Breakfast',
 		'Gym' => 'Gym',
 		'Spa' => 'Spa',
 		'Safe' => 'Safe',

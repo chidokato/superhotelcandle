@@ -37,7 +37,7 @@
 		'Laundry' => 'Giặt ủi',
 		'Wifi' => 'Wifi',
 		'Parking_area' => 'Chỗ gửi xe',
-		'Breakfast' => 'Ăn sáng',
+		'Have_breakfast' => 'Ăn sáng',
 		'Gym' => 'Gym',
 		'Spa' => 'Spa',
 		'Safe' => 'Két sắt',
