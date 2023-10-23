@@ -65,14 +65,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-12">
-                <div class="go_travel">
-                    <a href="#">
-                        <img src="https://luxehotel.webhotel.vn/Files/files/Hotel-Bay.jpg" alt="No picture">
-                    </a>
-                </div>
-                
-            </div>
+            
                </div>
            </div>
         </div>
