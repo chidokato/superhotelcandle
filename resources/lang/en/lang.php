@@ -46,12 +46,12 @@
 		'Pool' => 'Pool',
 
 		'heading1' => 'Welcome to SUPER HOTEL Candle',
-		'text1' => 'SUPER HOTEL Candle is a typical project of Nhan Nghia Group, started construction in 2007, operating since 2013.',
-		'text2' => 'The beauty of European architecture shines with Japanese spiritual culture to create an iconic project like SUPER HOTEL Candle, which is both international class and rich in Asian identity.',
-		'text21' => 'Located in the political - economic - cultural center of Hanoi capital, adjacent to foreign embassies, SUPER HOTEL Candle is the top choice for tourists and businessmen when coming to Hanoi capital.',
+		'text1' => 'SUPER HOTEL Candle is a flagship project of Nhan Nghia Group, which was initiated in 2007 and has been operational since 2013.',
+		'text2' => 'The stunning architecture of Europe shines alongside the spiritual culture of Japan, creating an iconic structure like SUPER HOTEL Candle, which combines international standards with a rich Eastern identity.',
+		'text21' => 'Located in the heart of Hanoi, the political, economic, and cultural center of the capital, and in close proximity to the embassies of various countries, SUPER HOTEL Candle is the top choice for tourists and business people visiting the capital city of Hanoi.',
 		'hotel' => 'Hotel',
-		'RoomClasses' => 'Wearing a sophisticated and luxurious Japanese style. Panoramic view of West Lake & City',
-		'RoomClasses1' => 'Fully equipped with modern functions. Brings a comfortable and cozy feeling like your own home',
+		'RoomClasses' => 'Sophisticated and luxurious Japanese style. Full view of West Lake & City',
+		'RoomClasses1' => 'Fully equipped with modern functions. Make you feel comfortable and cozy like your own home',
 
 		'text3' => 'Why choose SUPER HOTEL Candle',
 

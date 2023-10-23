@@ -102,16 +102,16 @@
                             <i class="fa fa-gavel"></i> {{__('lang.text41')}}
                         </li>
                         <li>
-                            <i class="fa fa-plane"></i> {{__('lang.text42')}}
+                            <i class="fas fa-dollar-sign"></i> {{__('lang.text42')}}
                         </li>
                         <li>
-                            <i class="fas fa-dollar-sign"></i> {{__('lang.text43')}}
+                            <i class="fa fa-bed"></i> {{__('lang.text43')}}
                         </li>
                         <li>
-                            <i class="fa fa-bed"></i> {{__('lang.text44')}}
+                            <i class="fa fa-user-secret"></i> {{__('lang.text44')}}
                         </li>
                         <li>
-                            <i class="fa fa-user-secret"></i> {{__('lang.text45')}}
+                            <i class="fab fa-tripadvisor"></i> {{__('lang.text45')}}
                         </li>
                     </ul>
                 </div>
