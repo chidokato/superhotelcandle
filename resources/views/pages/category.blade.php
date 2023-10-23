@@ -99,22 +99,19 @@
                 <div class="hotel_content">
                     <ul>
                         <li>
-                            <i class="fa fa-gavel"></i> Transparency – No hidden fees
+                            <i class="fa fa-gavel"></i> {{__('lang.text41')}}
                         </li>
                         <li>
-                            <i class="fa fa-plane"></i> Complementary Airport pickup
+                            <i class="fa fa-plane"></i> {{__('lang.text42')}}
                         </li>
                         <li>
-                            <i class="fas fa-dollar-sign"></i> Value for money
+                            <i class="fas fa-dollar-sign"></i> {{__('lang.text43')}}
                         </li>
                         <li>
-                            <i class="fa fa-bed"></i> Luxurious rooms for your comfort
+                            <i class="fa fa-bed"></i> {{__('lang.text44')}}
                         </li>
                         <li>
-                            <i class="fa fa-user-secret"></i> Easy refund on online booking
-                        </li>
-                        <li>
-                            <i class="fab fa-tripadvisor"></i> Award-winning hotel on TripAdviosr
+                            <i class="fa fa-user-secret"></i> {{__('lang.text45')}}
                         </li>
                     </ul>
                 </div>

@@ -53,7 +53,15 @@
 		'RoomClasses' => 'Khoác lên mình phong cách Nhật Bản tinh tế, sang trọng. Tầm nhìn bao trọn Hồ Tây & Thành phố',
 		'RoomClasses1' => 'Được trang bị đầy đủ công năng, hiện đại. Đem lại cảm giác thoải mái, ấm cúng như chính căn nhà của bạn',
 
-		'text3' => 'Tại sao chọn SUPER HOTEL Candle'
+		'text3' => 'Tại sao chọn SUPER HOTEL Candle',
+
+		'text41' => 'Tính minh bạch - Không có phí ẩn',
+		'text42' => 'Giá tiền hợp lý',
+		'text43' => 'Phòng sang trọng cho bạn thoải mái',
+		'text44' => 'Hoàn tiền dễ dàng khi đặt phòng trực tuyến',
+		'text45' => 'Khách sạn từng đoạt giải thưởng trên TripAdviosr',
+
+
 
 	];
 ?>

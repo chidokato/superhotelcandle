@@ -53,6 +53,12 @@
 		'RoomClasses' => 'Wearing a sophisticated and luxurious Japanese style. Panoramic view of West Lake & City',
 		'RoomClasses1' => 'Fully equipped with modern functions. Brings a comfortable and cozy feeling like your own home',
 
-		'text3' => 'Why choose SUPER HOTEL Candle'
+		'text3' => 'Why choose SUPER HOTEL Candle',
+
+		'text41' => 'Transparency - No hidden fees',
+		'text42' => 'Reasonable price',
+		'text43' => 'Luxurious room for your comfort',
+		'text44' => 'Easy refunds when booking online',
+		'text45' => 'Award-winning hotel on TripAdvisor',
 	];
 ?>

@@ -113,22 +113,19 @@
                         <div class="hotel_content">
                             <ul>
                                 <li>
-                                    <i class="fa fa-gavel"></i> Tính minh bạch - Không có phí ẩn
+                                    <i class="fa fa-gavel"></i> {{__('lang.text41')}}
                                 </li>
                                 <li>
-                                    <i class="fa fa-plane"></i> Tính minh bạch - Không có phí ẩn
+                                    <i class="fa fa-plane"></i> {{__('lang.text42')}}
                                 </li>
                                 <li>
-                                    <i class="fas fa-dollar-sign"></i> Giá tiền hợp lý
+                                    <i class="fas fa-dollar-sign"></i> {{__('lang.text43')}}
                                 </li>
                                 <li>
-                                    <i class="fa fa-bed"></i> Phòng sang trọng cho bạn thoải mái
+                                    <i class="fa fa-bed"></i> {{__('lang.text44')}}
                                 </li>
                                 <li>
-                                    <i class="fa fa-user-secret"></i> Hoàn tiền dễ dàng khi đặt phòng trực tuyến
-                                </li>
-                                <li>
-                                    <i class="fab fa-tripadvisor"></i> Khách sạn từng đoạt giải thưởng trên TripAdviosr
+                                    <i class="fa fa-user-secret"></i> {{__('lang.text45')}}
                                 </li>
                             </ul>
                         </div>
